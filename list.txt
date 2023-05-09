@@ -1,1 +1,10 @@
+[Adblock Plus]
+! Version: 1
+! Description: Pls don't block
+! Title: Charles' Adblock Allowlist
+! Last modified: 2023-05-09T00:06:15+0000
+! Expires: 1 days (update frequency)
+! Homepage: https://chark1es.org
+! Syntax: Adblock Plus Filter List       
+
 @@||docs.google.com^
